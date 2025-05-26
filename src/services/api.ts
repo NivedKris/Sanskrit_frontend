@@ -1,6 +1,6 @@
 import { ChatSettings } from '../types';
 
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://aged-voice-9300.ploomber.app/api';
+const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://autumn-sound-4207.ploomber.app/api';
 
 const defaultFetchOptions = {
   mode: 'cors' as const,
